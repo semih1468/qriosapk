@@ -1,0 +1,21 @@
+{
+  "appId": "com.kirazsoft.kirazdemo",
+  "appName": "iframeApk",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "androidSplashResourceName": "splash",
+      "androidSpinnerStyle": "middle",
+      "iosSpinnerStyle": "small",
+      "spinnerColor": "#000000",
+      "showSpinner": true,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  },
+  "cordova": {}
+}
